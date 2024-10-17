@@ -12,7 +12,7 @@
 
 - 🏳️‍⚧️ Chinese / 19 y.o. / Walmart bag
 - 🎓 College Student / Coder
-- 😄 zh-CN / ja-JP / en-US
+- 😄 zh-CN / ja-JP / en-US (learning)
 - 💖 Anime / Comics / Games / Music
 
 ---
