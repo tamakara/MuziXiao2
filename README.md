@@ -4,7 +4,9 @@
 
 ### About me😶
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=tokyonight">
+
 - Chinese | 19 y.o. | Walmart bag
+
 - zh-CN | ja-JP~~ (Learning!)
 
 ### Github Stats
