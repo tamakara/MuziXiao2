@@ -1,4 +1,4 @@
-<h3 align="center">Hello, I am MuziXiao2 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">✨✨✨  Hello, I am MuziXiao2 👋✨✨✨</h3>
 
 ---
 
