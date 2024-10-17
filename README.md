@@ -15,6 +15,9 @@
 - 😄 zh-CN / ja-JP / en-US (learning)
 - 💖 Anime / Comics / Games / Music
 
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
+[![X](https://img.shields.io/badge/%40xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
+
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
@@ -35,6 +38,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)
 
-
+---
 
 
