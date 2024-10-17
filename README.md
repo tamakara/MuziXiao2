@@ -15,8 +15,8 @@
 - 😄 zh-CN / ja-JP / en-US (learning)
 - 💖 Anime / Comics / Games / Music
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
-[![X](https://img.shields.io/badge/%40xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
+[![Bilibili](https://img.shields.io/badge/木子丶小二-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
+[![X](https://img.shields.io/badge/@xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
 
 ---
 
