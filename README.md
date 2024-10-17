@@ -1,5 +1,4 @@
-<center><span style="font-size:24px;" style="text-align: center;"> Hello, I am xiao2 ! </span><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></center>
-
+<h3 align="center">Hello, I am xiao2 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 ---
 
 ### About me😶
