@@ -2,17 +2,24 @@
 
 ---
 
-### About me😶
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=tokyonight">
 
-- Chinese | 19 y.o. | Walmart bag
-- Undergraduate | Coder
-- zh-CN | ja-JP | en-US
+### About me😶
 
-### Platform & Tolls
+
+- 🏳️‍⚧️ Chinese | 19 y.o. | Walmart bag
+- 🎓 College Student | Coder
+- 😄 zh-CN | ja-JP | en-US
+- 💖 Anime Comic Game
+
+
+
+### Platform & Tools
 
 ![Windows 11](https://img.shields.io/badge/Windows_11-00adef?style=flat-square)
 ![Redmi K60](https://img.shields.io/badge/Redmi%20K60-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
 
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
@@ -23,4 +30,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
+
