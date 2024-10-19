@@ -21,7 +21,7 @@
 
 ### 🌱 Platform & Tools
 
-![Windows 11](https://img.shields.io/badge/Windows_11-00adef?style=flat-square)
+![Windows 11](https://img.shields.io/badge/Windows-11-00adef?style=flat-square)
 ![Redmi K60](https://img.shields.io/badge/Redmi%20K60-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
 ![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi_Pad_6_Pro-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
 
