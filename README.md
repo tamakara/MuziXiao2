@@ -1,4 +1,4 @@
-<h3 align="center">✨✨✨  Hello, I am MuziXiao2 👋✨✨✨</h3>
+<h3 align="center">✨✨✨👋 Hello, I am MuziXiao2 👋✨✨✨</h3>
 
 ---
 
