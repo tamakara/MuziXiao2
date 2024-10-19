@@ -17,13 +17,6 @@
 
 ---
 
-### 📫 Get in Touch
-
-[![Bilibili](https://img.shields.io/badge/木子丶小二-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
-[![X](https://img.shields.io/badge/@xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
-
----
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
 
 ### 🌱 Platform & Tools
@@ -41,6 +34,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)
+
+---
+
+### 📫 Get in Touch
+
+[![Bilibili](https://img.shields.io/badge/木子丶小二-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
+[![X](https://img.shields.io/badge/@xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
 
 ---
 
