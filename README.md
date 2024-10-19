@@ -2,9 +2,9 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=tokyonight">
-
 ### 😶 About me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=tokyonight">
 
 ### 木子 丶小二 ( MuziXiao2 )
 
