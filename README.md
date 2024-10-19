@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=tokyonight">
 
-### About me 😶
+### 😶 About me
 
 ### 木子 丶小二 ( MuziXiao2 )
 
@@ -15,6 +15,10 @@
 - 😄 zh-CN / ja-JP / en-US (learning)
 - 💖 Anime / Comics / Games / Music
 
+---
+
+### 📫 Get in Touch
+
 [![Bilibili](https://img.shields.io/badge/木子丶小二-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
 [![X](https://img.shields.io/badge/@xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
 
@@ -22,7 +26,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
 
-### Platform & Tools
+### 🌱 Platform & Tools
 
 ![Windows 11](https://img.shields.io/badge/Windows_11-00adef?style=flat-square)
 ![Redmi K60](https://img.shields.io/badge/Redmi%20K60-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
