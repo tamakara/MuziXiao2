@@ -11,7 +11,7 @@
 > 💬 a.k.a. xiao2, xiao2_dd, suhxhee.
 
 - 🏳️‍⚧️ Chinese / 19 y.o. / Walmart bag
-- 🎓 College Student / Coder
+- 🎓 Student / Coder / Job seeker
 - 😄 zh-CN / ja-JP / en-US (learning)
 - 💖 Anime / Comics / Games / Music
 
