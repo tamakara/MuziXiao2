@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
 
 ### 🌱 Platform & Tools
 
