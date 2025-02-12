@@ -4,7 +4,7 @@
 
 ### 😶 About me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=blue_navy">
 
 ### 木子 丶小二 ( MuziXiao2 )
 
@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=blue_navy">
 
 ### 🌱 Platform & Tools
 
