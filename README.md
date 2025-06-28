@@ -4,7 +4,7 @@
 
 ### 😶 About me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=blue_navy">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tamakara&show_icons=true&rank_icon=github&theme=blue_navy">
 
 ### 魂辛カラ (TamaKara)
 
@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuziXiao2&layout=donut&theme=blue_navy">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamakara&layout=donut&theme=blue_navy">
 
 ### 🌱 Platform & Tools
 
