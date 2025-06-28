@@ -1,4 +1,4 @@
-<h3 align="center">✨✨✨👋 Hello, I am MuziXiao2 👋✨✨✨</h3>
+<h3 align="center">✨✨✨👋 Hello, I am TamaKara 👋✨✨✨</h3>
 
 ---
 
@@ -6,9 +6,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MuziXiao2&show_icons=true&rank_icon=github&theme=blue_navy">
 
-### 木子 丶小二 ( MuziXiao2 )
+### 魂辛カラ (TamaKara)
 
-> 💬 a.k.a. xiao2, xiao2_dd, suhxhee.
+> 💬 a.k.a. tamakara, xiao2, xiao2_dd, suhxhee.
 
 - 🏳️‍⚧️ Chinese / 19 y.o. / Walmart bag
 - 🎓 Student / Coder / Job seeker
