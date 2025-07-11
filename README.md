@@ -21,10 +21,6 @@
 
 ### 🌱 Platform & Tools
 
-![Windows 11](https://img.shields.io/badge/Windows-11-00adef?style=flat-square)
-![Redmi K60](https://img.shields.io/badge/Redmi%20K60-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
-![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi_Pad_6_Pro-FF6900?style=flat-square&logo=Xiaomi&logoColor=ffffff)
-
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
