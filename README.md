@@ -35,8 +35,8 @@
 
 ### 📫 Get in Touch
 
-QQ 2041214551
-WeChat suhxhee
+- QID： tamakara
+- WeChat： suhxhee
 
 ---
 
