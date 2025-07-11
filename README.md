@@ -22,9 +22,9 @@
 ### 🌱 Platform & Tools
 
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
@@ -35,8 +35,8 @@
 
 ### 📫 Get in Touch
 
-[![Bilibili](https://img.shields.io/badge/木子丶小二-00A1D6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://space.bilibili.com/39754290)
-[![X](https://img.shields.io/badge/@xiao2_dd-000000?style=flat&logo=x&logoColor=ffffff)](https://x.com/xiao2_dd)
+QQ 2041214551
+WeChat suhxhee
 
 ---
 
