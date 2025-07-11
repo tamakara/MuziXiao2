@@ -10,7 +10,7 @@
 
 > 💬 a.k.a. tamakara, xiao2, xiao2_dd, suhxhee.
 
-- 🏳️‍⚧️ Chinese / 19 y.o. / Walmart bag
+- 🏳️‍⚧️ Chinese / 20 y.o. / Boy
 - 🎓 Student / Coder / Job seeker
 - 😄 zh-CN / ja-JP / en-US (learning)
 - 💖 Anime / Comics / Games / Music
